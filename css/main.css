@@ -1,0 +1,50 @@
+img {
+	position: absolute;
+}
+div {
+	border:1px solid #fff;
+}
+.contenedor {
+	background: #8cb27c;
+	width: 800px;
+	height: 400px;
+	padding: 20px;
+}
+.box {
+	padding: 200px;
+	position: relative;
+}
+.boxsmall1 {
+	width: 90px;
+  height: 182px;
+  position: absolute;
+  left: -1px;
+  top: 100px;
+}
+.boxsmall2 {
+	width: 90px;
+  height: 182px;
+  position: absolute;
+  right: -1px;
+  top: 100px;
+}
+.circulo {
+	border-radius: 50%;
+  width: 184px;
+  height: 184px;
+  position: absolute;
+  left: 39%;
+  top: 96px;
+}
+.bolaleft {
+	left: 78px;
+   top: 106px;
+}
+.bolacenter {
+	left:56%; 
+	top: 40px;
+}
+.bolaright {
+	right: 95px;
+   bottom: 122px;
+}
